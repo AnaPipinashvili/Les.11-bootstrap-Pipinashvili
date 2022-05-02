@@ -1,0 +1,8 @@
+/* SECTION -1  */
+.bg-image{
+
+    background-image: url('../images/img-1.jpg');
+    width: 100%;
+    max-height: 1080px;
+    height: 100%;
+}
